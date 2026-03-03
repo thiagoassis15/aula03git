@@ -1,0 +1,15 @@
+* {
+    font-family: 'Segoe UI','Tahoma, Geneva, Verdana';
+}
+
+body {
+    margin: 0;
+}
+
+h1 {
+    color: steelblue;
+}
+
+h2 {
+    color: palevioletred;
+}
